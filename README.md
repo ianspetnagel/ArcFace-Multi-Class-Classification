@@ -21,7 +21,11 @@ The graphs would update as the model became more and more refined as the trainin
 <img width="826" alt="95" src="https://github.com/ianspetnagel/Deep-Learning-5-Learning-Rate-Optimization/assets/62821052/9606af1e-98f0-44a6-9cdd-dfa98cb0c0a5">
 
 *Progression from Epoch 1 to 80*
+
+
 ![1](https://github.com/ianspetnagel/Deep-Learning-5-Learning-Rate-Optimization/assets/62821052/95805c1c-26aa-4b31-95ba-54fc30c4afd5)
+
+
 ![80](https://github.com/ianspetnagel/Deep-Learning-5-Learning-Rate-Optimization/assets/62821052/16d2eca7-7221-4ebb-9d95-4102f80a695f)
 
 <img width="1111" alt="96" src="https://github.com/ianspetnagel/Deep-Learning-5-Learning-Rate-Optimization/assets/62821052/a86d9a84-1a2b-4f12-a11a-6ecc3fd7503c">
